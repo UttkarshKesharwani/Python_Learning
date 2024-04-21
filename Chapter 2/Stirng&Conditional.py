@@ -7,6 +7,9 @@ print(str1);
 print(len(str1))  #! gives 38 bcoz of indexing happens i.e every character has a index starting from 0 
 print(str1[0])
 
+# str1[0]="h" #! this is not allowed as string is immutabel in python
+
+
 
 
 # ! Slicing :- Accessing parts of a string is known as slicing 

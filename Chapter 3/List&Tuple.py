@@ -49,8 +49,7 @@ print(list)
 
 
 
-#! Tuples :- A bultin data type that lets us create immutabel sequences of values while list is mutable 
-
+#! Tuples :- A builtin data type that lets us create immutabel sequences of values while list is mutable 
 
 
 tup1 = (1,2,3,4);
